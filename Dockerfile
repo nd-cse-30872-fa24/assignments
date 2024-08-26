@@ -1,4 +1,4 @@
-# To Build: docker build --no-cache -t pbui/cse-30872-fa23-assignments . < Dockerfile
+# To Build: docker build --no-cache -t pbui/cse-30872-fa24-assignments . < Dockerfile
 
 FROM	    alpine:latest
 MAINTAINER  Peter Bui <pbui@nd.edu>
